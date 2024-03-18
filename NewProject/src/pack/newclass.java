@@ -8,6 +8,7 @@ public class newclass {
 		int i=10;
 		System.out.println(i);
 		//System.out.println("Welcome");
+		system.out.println("Git welcome");
 	}
 
 }
