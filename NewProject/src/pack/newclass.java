@@ -10,6 +10,7 @@ public class newclass {
 		//System.out.println("Welcome");
 		System.out.println("Git welcome");
 		System.out.println("Eclipse welcome");
+		System.out.println("Kpr Eclipse welcome");
 	}
 
 }
